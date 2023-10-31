@@ -89,6 +89,11 @@ body {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
+.brown {
+  color: #4e4232;
+}
+
+
 hr {
   margin: 1rem 0;
   color: inherit;
@@ -11395,13 +11400,13 @@ hr.divider-light {
     background-color: #fff;
   }
   #mainNav.navbar-shrink .navbar-brand {
-    color: #212529;
+    color: #4e4232;
   }
   #mainNav.navbar-shrink .navbar-brand:hover {
     color: #f4623a;
   }
   #mainNav.navbar-shrink .navbar-nav .nav-item .nav-link {
-    color: #212529;
+    color: #4e4232;
   }
   #mainNav.navbar-shrink .navbar-nav .nav-item .nav-link:hover {
     color: #f4623a;
