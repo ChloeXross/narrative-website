@@ -6874,6 +6874,11 @@ textarea.form-control-lg {
   transform: translateY(-50%) !important;
 }
 
+.circle-image {
+  border-radius: 50%;
+}
+
+
 .border {
   border: 1px solid #dee2e6 !important;
 }
