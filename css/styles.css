@@ -11343,7 +11343,7 @@ hr.divider {
   height: 0.2rem;
   max-width: 3.25rem;
   margin: 1.5rem auto;
-  background-color: #f4623a;
+  background-color: #7162B3;
   opacity: 1;
 }
 
@@ -11372,7 +11372,7 @@ hr.divider-light {
   color: #f4623a;
 }
 #mainNav .navbar-nav .nav-item .nav-link.active {
-  color: #f4623a !important;
+  color: #7162B3 !important;
 }
 @media (min-width: 992px) {
   #mainNav {
