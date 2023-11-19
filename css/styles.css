@@ -163,6 +163,25 @@ p {
   margin-bottom: 1rem;
 }
 
+
+.masthead-box-heading {
+  border-radius: 25px;
+  background: #73AD21;
+  padding: 20px;
+  width: auto;
+  height: auto;
+}
+
+.masthead-box-text {
+  border-radius: 25px;
+  background: #73AD21;
+  padding: 20px;
+  width: auto;
+  height: 100px;
+}
+
+
+
 abbr[title],
 abbr[data-bs-original-title] {
   -webkit-text-decoration: underline dotted;
