@@ -165,21 +165,28 @@ p {
 
 
 .masthead-box-heading {
-  border-radius: 25px;
-  background: #73AD21;
+  border-radius: 100px;
+  background: rgba(255, 255, 255, 0.5);
   padding: 20px;
   width: auto;
   height: auto;
 }
 
 .masthead-box-text {
-  border-radius: 25px;
-  background: #73AD21;
+  border-radius: 100px;
+  background: rgba(255, 255, 255, 0.5);
   padding: 20px;
   width: auto;
   height: 100px;
 }
 
+.masthead-box-text2 {
+  border-radius: 100px;
+  background: rgba(255, 255, 255, 0.5);
+  padding: 20px;
+  width: auto;
+  height: 70px;
+}
 
 
 abbr[title],
@@ -11359,6 +11366,12 @@ body {
   font-weight: 1000;
 }
 
+.text-brown-75 {
+  color: #4e4232 !important;
+  font-family: "Merriweather Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-weight: 1000;
+}
+
 .merriweather {
   font-family: "Merriweather Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
@@ -11450,7 +11463,7 @@ hr.divider-light {
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 4.5rem);
-  background: linear-gradient(to bottom, rgba(108, 115, 133, 0.3) 0%, rgba(225, 225, 225, 0.5) 100%), url("../assets/img/windsor-long-walk.jpg");
+  background: linear-gradient(to bottom, rgba(108, 115, 133, 0.3) 100%, rgba(225, 225, 225, 0.5) 100%), url("../assets/img/windsor-long-walk.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -11486,7 +11499,7 @@ header.masthead h1, header.masthead .h1 {
 header.masthead1 {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 4.5rem);
-  background: linear-gradient(to bottom, rgba(108, 115, 133, 0.3) 0%, rgba(225, 225, 225, 0.5) 100%), url("../assets/img/the-castle-hotel1.jpeg");
+  background: linear-gradient(to bottom, rgba(108, 115, 133, 0.3) 100%, rgba(225, 225, 225, 0.5) 100%), url("../assets/img/the-castle-hotel1.jpeg");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
