@@ -174,7 +174,7 @@ p {
 
 .masthead-box-text {
   border-radius: 100px;
-  background: rgba(255, 255, 255, 0.5);
+  background: rgba(255, 255, 255, 0.6);
   padding: 20px;
   width: auto;
   height: 100px;
@@ -716,6 +716,7 @@ progress {
 }
 @media (min-width: 1400px) {
   .container-xxl, .container-xl, .container-lg, .container-md, .container-sm, .container {
+    /*max-width: 93.6%;*/
     max-width: 1320px;
   }
 }
@@ -1454,6 +1455,11 @@ progress {
   .col-lg-8 {
     flex: 0 0 auto;
     width: 66.66666667%;
+  }
+
+  .col-lg-8-2 {
+    flex: 0 0 auto;
+    width: 100%;
   }
 
   .col-lg-9 {
@@ -11370,6 +11376,11 @@ body {
   color: #4e4232 !important;
   font-family: "Merriweather Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-weight: 1000;
+  font-size: 18px;
+}
+
+.masthead-text-large {
+  font-size: 50px;
 }
 
 .merriweather {
