@@ -164,6 +164,11 @@ p {
 }
 
 
+.align-right {
+  align: right;
+}
+
+
 .masthead-box-heading {
   border-radius: 100px;
   background: rgba(255, 255, 255, 0.5);
@@ -11474,7 +11479,7 @@ hr.divider-light {
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 4.5rem);
-  background: linear-gradient(to bottom, rgba(108, 115, 133, 0.3) 100%, rgba(225, 225, 225, 0.5) 100%), url("../assets/img/windsor-long-walk.jpg");
+  background: linear-gradient(to bottom, rgba(108, 115, 133, 0.3) 100%, rgba(225, 225, 225, 0.5) 100%), url("../assets/img/windsor-long-walk-resized.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -11506,11 +11511,11 @@ header.masthead h1, header.masthead .h1 {
 }
 
 
-/*PAGEONE MASTHEAD*/
+/*PLACES TO STAY MASTHEAD*/
 header.masthead1 {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 4.5rem);
-  background: linear-gradient(to bottom, rgba(108, 115, 133, 0.3) 100%, rgba(225, 225, 225, 0.5) 100%), url("../assets/img/the-castle-hotel1-enhanced.jpg");
+  background: linear-gradient(to bottom, rgba(108, 115, 133, 0.3) 100%, rgba(225, 225, 225, 0.5) 100%), url("../assets/img/generic-hotel4.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -11542,7 +11547,7 @@ header.masthead1 h1, header.masthead1 .h1 {
 }
 
 
-/*PAGETWO MASTHEAD*/
+/*SPOTS TO EAT MASTHEAD*/
 header.masthead2 {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 4.5rem);
@@ -11578,7 +11583,7 @@ header.masthead2 h1, header.masthead2 .h1 {
 }
 
 
-/*PAGETHREE MASTHEAD*/
+/*SIGHTS & ACTIVITIES MASTHEAD*/
 header.masthead3 {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 4.5rem);
@@ -11614,7 +11619,7 @@ header.masthead3 h1, header.masthead3 .h1 {
 }
 
 
-/*PAGEFOUR MASTHEAD*/
+/*HISTORY OF WINDSOR MASTHEAD*/
 header.masthead4 {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 4.5rem);
@@ -11650,7 +11655,7 @@ header.masthead4 h1, header.masthead4 .h1 {
 }
 
 
-/*PAGEFIVE MASTHEAD*/
+/*TRAVEL RESOURCES MASTHEAD*/
 header.masthead5 {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 4.5rem);
