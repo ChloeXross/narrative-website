@@ -177,7 +177,7 @@ p {
   background: rgba(255, 255, 255, 0.6);
   padding: 20px;
   width: auto;
-  height: 100px;
+  height: auto;
 }
 
 .masthead-box-text2 {
