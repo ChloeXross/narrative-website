@@ -11405,7 +11405,7 @@ hr.divider {
   height: 0.2rem;
   max-width: 3.25rem;
   margin: 1.5rem auto;
-  background-color: #7162B3;
+  background-color: #4c4234;
   opacity: 1;
 }
 
@@ -11455,7 +11455,7 @@ hr.divider-light {
 
   /*"Windsor: A Local's Guide" in nav bar hover state*/
   #mainNav .navbar-brand:hover {
-    color: #7162B3;
+    color: #4c4234;
   }
 
   /*Nav bar button static state*/
