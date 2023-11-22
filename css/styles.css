@@ -11491,14 +11491,18 @@ hr.divider-light {
   #mainNav.navbar-shrink .navbar-brand {
     color: #4e4232;
   }
+
+  /*"Windsor: A Local's Guide" in white nav bar hover state*/
   #mainNav.navbar-shrink .navbar-brand:hover {
-    color: #f4623a;
+    color: #948065;
   }
   #mainNav.navbar-shrink .navbar-nav .nav-item .nav-link {
     color: #4e4232;
   }
+
+  /*Nav white bar text hover state colour*/
   #mainNav.navbar-shrink .navbar-nav .nav-item .nav-link:hover {
-    color: #f4623a;
+    color: #fefefe;
   }
 }
 
