@@ -112,6 +112,7 @@ h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
   font-family: 'Dela Gothic One', sans-serif;  
   font-weight: 500;
   line-height: 1.2;
+  color: #4e4232;
 }
 
 h1, .h1 {
@@ -3095,28 +3096,28 @@ textarea.form-control-lg {
 }
 
 .btn-primary {
-  color: #fff;
-  background-color: #f4623a;
-  border-color: #f4623a;
+  color: #fefefe;
+  background-color: #4c4234;
+  border-color: #4c4234;
 }
 .btn-primary:hover {
-  color: #fff;
-  background-color: #cf5331;
-  border-color: #c34e2e;
+  color: #fefefe;
+  background-color: #948065;
+  border-color: #948065;
 }
 .btn-check:focus + .btn-primary, .btn-primary:focus {
-  color: #fff;
-  background-color: #cf5331;
-  border-color: #c34e2e;
-  box-shadow: 0 0 0 0.25rem rgba(246, 122, 88, 0.5);
+  color: #fefefe;
+  background-color: #4c4234;
+  border-color: #4c4234;
+  box-shadow: 0 0 0 0.25rem rgba(76, 66, 52, 0.5);
 }
 .btn-check:checked + .btn-primary, .btn-check:active + .btn-primary, .btn-primary:active, .btn-primary.active, .show > .btn-primary.dropdown-toggle {
   color: #fff;
-  background-color: #c34e2e;
-  border-color: #b74a2c;
+  background-color: #948065;
+  border-color: #948065;
 }
 .btn-check:checked + .btn-primary:focus, .btn-check:active + .btn-primary:focus, .btn-primary:active:focus, .btn-primary.active:focus, .show > .btn-primary.dropdown-toggle:focus {
-  box-shadow: 0 0 0 0.25rem rgba(246, 122, 88, 0.5);
+  box-shadow: 0 0 0 0.25rem rgba(148, 128, 101, 0.5);
 }
 .btn-primary:disabled, .btn-primary.disabled {
   color: #fff;
