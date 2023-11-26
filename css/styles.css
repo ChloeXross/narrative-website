@@ -11437,7 +11437,7 @@ hr.divider-light {
   
 /*Nav bar button active state*/
 #mainNav .navbar-nav .nav-item .nav-link.active {
-  color: rgba(76, 66, 52, 1) !important;
+  color: rgba(76, 66, 52, 1);
   border-radius: 18px;
   background: rgba(255, 255, 255, 0.8);
   padding: 8px;
@@ -11469,6 +11469,10 @@ hr.divider-light {
     margin: 8px;
     width: auto;
     height: auto;
+  }
+
+  #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
+    color: #fffff !important;
   }
 
   /*Nav bar button hover states*/
