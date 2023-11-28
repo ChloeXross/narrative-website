@@ -61,7 +61,7 @@
   --bs-body-font-weight: 400;
   --bs-body-line-height: 1.5;
   --bs-body-color: #212529;
-  --bs-body-bg: #fff;
+  --bs-body-bg: #F1F0EC;
 }
 
 *,
@@ -7918,6 +7918,10 @@ textarea.form-control-lg {
   background-color: rgba(var(--bs-light-rgb), var(--bs-bg-opacity)) !important;
 }
 
+.footer-bg {
+  background-color: #F1F0EC;
+}
+
 .bg-dark {
   --bs-bg-opacity: 1;
   background-color: rgba(var(--bs-dark-rgb), var(--bs-bg-opacity)) !important;
@@ -11497,7 +11501,7 @@ hr.divider-light {
   }
   #mainNav.navbar-shrink {
     box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
-    background-color: #fff;
+    background-color: #F1F0EC;
   }
   #mainNav.navbar-shrink .navbar-brand {
     color: #4e4232;
