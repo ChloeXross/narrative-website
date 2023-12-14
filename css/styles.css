@@ -543,6 +543,10 @@ progress {
   width: 50%;
 }
 
+.center-text {
+  text-align: center;
+}
+
 .carousel-item {
   height: 100vh;
   min-height: 350px;
