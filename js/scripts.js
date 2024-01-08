@@ -78,6 +78,7 @@ window.addEventListener('DOMContentLoaded', event => {
         document.documentElement.scrollTop = 0;
     };
 
+});
 
 
     // CSS scroll animation taken from fullPage.js
@@ -118,6 +119,3 @@ window.addEventListener('DOMContentLoaded', event => {
     window.addEventListener("scroll", reveal);
 
     reveal();
-
-
-});
