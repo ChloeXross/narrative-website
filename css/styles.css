@@ -568,6 +568,10 @@ progress {
   text-align: center;
 }
 
+.right-text {
+  text-align: right;
+}
+
 #myBtn {
   display: none;
   position: fixed;
