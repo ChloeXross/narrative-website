@@ -81,6 +81,7 @@ window.addEventListener('DOMContentLoaded', event => {
 });
 
 
+
     // CSS scroll animation taken from fullPage.js
     let section = document.querySelectorAll("section");
     let menu = document.querySelectorAll("header nav a");
