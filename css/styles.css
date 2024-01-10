@@ -572,6 +572,16 @@ progress {
   text-align: right;
 }
 
+
+
+/** Responsive YouTube video code snippet from Yoast **/
+.youtube-video  {
+  aspect-ratio: 16 / 9;
+  width: 100%;
+}
+
+
+
 #myBtn {
   display: none;
   position: fixed;
