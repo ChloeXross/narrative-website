@@ -11476,6 +11476,10 @@ body {
   font-weight: 1000;
 }
 
+.larger-spacing {
+  line-height: 1.8;
+}
+
 
 
 /** CSS scroll animation taken from fullPage.js **/
